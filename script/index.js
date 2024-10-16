@@ -5,7 +5,7 @@ const posts = [
         location: "Hedmark, Norvegia",
         avatar: "images/avatar-munch.jpg",
         post: "images/post-munch.jpg",
-        description: "Nothing to get panicked",
+        description: "Nothing to panic about",
         likes: 42,
         comments: []
     },
